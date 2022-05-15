@@ -8,7 +8,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+My name is Vlad. I'm a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as an operator in a call center.
 - :seedling: Exploring Technical Content Writing.
 - In my free time, I solve problems on Stepik and read technical articles, as well as write scripts for VK and Telegram.
