@@ -7,6 +7,12 @@
 </h1>
 </div>
 
+### :man_technologist: About Me :
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working as an operator in a call center, and in my spare time as a Python Developer and make scripts for VK and Telegram.
+- :seedling: Exploring Technical Content Writing.
+- In my free time, I solve problems on Stepik and read tech articles.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages :
 <div>
