@@ -12,7 +12,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :telescope: I’m working as an operator in a call center, and in my spare time as a Python Developer and make scripts for VK and Telegram.
 - :seedling: Exploring Technical Content Writing.
 - In my free time, I solve problems on Stepik and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: 
 
 ### :hammer_and_wrench: Languages :
 <div>
@@ -32,4 +32,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k0tmurlik&theme=dark&background=000000)](https://github.com/k0tmurlik/k0tmurlik)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k0tmurlik&theme=dark&background=000000)](https://github.com/k0tmurlik/k0tmurlik)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0tmurlik&layout=compact&theme=vision-friendly-dark)](https://github.com/k0tmurlik/k0tmurlik)
