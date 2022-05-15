@@ -13,9 +13,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :seedling: Exploring Technical Content Writing.
 - In my free time, I solve problems on Stepik and read technical articles, as well as write scripts for VK and Telegram.
 - :mailbox: How to reach me:</br></br>
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg"  title="VK" alt="VK" width="40" height="40"/>&nbsp;
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg"  title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"  title="Mail" alt="Mail" width="40" height="40"/>&nbsp;
+<a href="https://vk.com/k0t_murlik"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" /></a>
+<a href="https://t.me/k0t_murlik"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" /></a>
+<a href="mailto:tech@ltscld.ru"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /></a>
 
 ----
 ### :hammer_and_wrench: Languages :
