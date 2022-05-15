@@ -44,5 +44,3 @@ My name is Vlad. I'm a Python Developer <img src="https://media.giphy.com/media/
 
 ----
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k0tmurlik)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0tmurlik&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
