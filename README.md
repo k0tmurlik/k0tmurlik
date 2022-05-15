@@ -9,11 +9,15 @@
 
 ### :man_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as an operator in a call center, and in my spare time as a Python Developer and make scripts for VK and Telegram.
+- :telescope: I’m working as an operator in a call center.
 - :seedling: Exploring Technical Content Writing.
-- In my free time, I solve problems on Stepik and read tech articles.
-- :mailbox:How to reach me: 
+- In my free time, I solve problems on Stepik and read technical articles, as well as write scripts for VK and Telegram.
+- :mailbox: How to reach me:</br></br>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg"  title="VK" alt="VK" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg"  title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"  title="Mail" alt="Mail" width="40" height="40"/>&nbsp;
 
+----
 ### :hammer_and_wrench: Languages :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -21,8 +25,11 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  
+ </div>
+
+----
 ### :hammer_and_wrench: Tools :
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"  title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg"  title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
@@ -31,6 +38,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+----
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k0tmurlik&theme=dark&background=000000)](https://github.com/k0tmurlik/k0tmurlik)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0tmurlik&layout=compact&theme=vision-friendly-dark)](https://github.com/k0tmurlik/k0tmurlik)
