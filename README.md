@@ -26,4 +26,4 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k0tmurlik&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k0tmurlik&theme=dark&background=000000)](https://github.com/k0tmurlik/k0tmurlik)
