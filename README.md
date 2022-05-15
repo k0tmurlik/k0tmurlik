@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @k0tmurlik
+- 👀 I’m interested in Ыныеуь Фвьштшыекфешщт :)
+- 🌱 I’m currently learning Знерщт, Пщдфтп.
+- 📫 How to reach me tech@ltscld.ru
