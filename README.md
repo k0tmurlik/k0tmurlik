@@ -41,3 +41,4 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ----
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k0tmurlik&theme=dark&background=000000)](https://github.com/k0tmurlik/k0tmurlik)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0tmurlik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
