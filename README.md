@@ -13,9 +13,9 @@ My name is Vlad. I'm a Python Developer <img src="https://media.giphy.com/media/
 - :seedling: Exploring Technical Content Writing.
 - In my free time, I solve problems on Stepik and read technical articles, as well as write scripts for VK and Telegram.
 - :mailbox: How to reach me:</br></br>
-<a href="https://vk.com/k0t_murlik"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" /></a>
-<a href="https://t.me/k0t_murlik"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" /></a>
-<a href="mailto:tech@ltscld.ru"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /></a>
+<a href="https://vk.com/k0tmurlik"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" /></a>
+<a href="https://t.me/k0tmurlik"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" /></a>
+<a href="mailto:tech@k0tmurlik.ru"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" /></a>
 
 ----
 ### :hammer_and_wrench: Languages :
