@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 My name is Vlad. I'm a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a system administrator in a call center.
+- :telescope: I’m working as a system administrator.
 - :seedling: Exploring Technical Content Writing.
 - In my free time, I solve problems on Stepik and read technical articles, as well as write scripts for VK and Telegram.
 - :mailbox: How to reach me:</br></br>
